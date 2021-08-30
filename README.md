@@ -1,1 +1,1 @@
-# django-sample-main.github.io
+# django_project_sample
